@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>C:\Users\Alex\OneDrive\Рабочий стол\RPA\Primo\Task 2\Task 2\Main.ltw</Key>
+            <Value>e63345f3-df05-4911-abfe-c4ff55a4a5f2</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\Alex\OneDrive\Рабочий стол\RPA\Primo\Task 2\Task 2\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

@@ -1,0 +1,702 @@
+[
+  {
+    "language": "ru",
+    "location": {
+      "height": 23,
+      "width": 22,
+      "x": 191,
+      "y": 74
+    },
+    "text": "о"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 23,
+      "width": 23,
+      "x": 232,
+      "y": 74
+    },
+    "text": "с"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 23,
+      "width": 23,
+      "x": 274,
+      "y": 74
+    },
+    "text": "с"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 24,
+      "width": 22,
+      "x": 316,
+      "y": 73
+    },
+    "text": "и"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 22,
+      "width": 23,
+      "x": 357,
+      "y": 74
+    },
+    "text": "й"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 23,
+      "width": 23,
+      "x": 399,
+      "y": 73
+    },
+    "text": "с"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 23,
+      "width": 23,
+      "x": 441,
+      "y": 73
+    },
+    "text": "к"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 23,
+      "width": 19,
+      "x": 483,
+      "y": 73
+    },
+    "text": "а"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 24,
+      "width": 15,
+      "x": 517,
+      "y": 72
+    },
+    "text": "я"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 24,
+      "width": 56,
+      "x": 597,
+      "y": 73
+    },
+    "text": "фе"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 25,
+      "width": 21,
+      "x": 675,
+      "y": 72
+    },
+    "text": "д"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 24,
+      "width": 18,
+      "x": 711,
+      "y": 72
+    },
+    "text": "е"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 24,
+      "width": 21,
+      "x": 745,
+      "y": 72
+    },
+    "text": "р"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 25,
+      "width": 22,
+      "x": 787,
+      "y": 71
+    },
+    "text": "а"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 24,
+      "width": 21,
+      "x": 828,
+      "y": 72
+    },
+    "text": "ц"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 24,
+      "width": 22,
+      "x": 866,
+      "y": 72
+    },
+    "text": "и"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 24,
+      "width": 20,
+      "x": 909,
+      "y": 72
+    },
+    "text": "я"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 66,
+      "x": 89,
+      "y": 167
+    },
+    "text": "Паспорт"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 13,
+      "width": 46,
+      "x": 164,
+      "y": 167
+    },
+    "text": "выдан"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 28,
+      "width": 225,
+      "x": 345,
+      "y": 150
+    },
+    "text": "отделением"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 27,
+      "width": 88,
+      "x": 591,
+      "y": 151
+    },
+    "text": "уфмс"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 27,
+      "width": 129,
+      "x": 698,
+      "y": 151
+    },
+    "text": "россии"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 28,
+      "width": 53,
+      "x": 341,
+      "y": 202
+    },
+    "text": "по"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 28,
+      "width": 242,
+      "x": 413,
+      "y": 202
+    },
+    "text": "воронежской"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 28,
+      "width": 149,
+      "x": 676,
+      "y": 202
+    },
+    "text": "области"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 28,
+      "width": 23,
+      "x": 235,
+      "y": 261
+    },
+    "text": "в"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 28,
+      "width": 246,
+      "x": 277,
+      "y": 261
+    },
+    "text": "центральном"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 28,
+      "width": 127,
+      "x": 542,
+      "y": 261
+    },
+    "text": "районе"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 27,
+      "width": 48,
+      "x": 688,
+      "y": 262
+    },
+    "text": "г."
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 28,
+      "width": 177,
+      "x": 755,
+      "y": 262
+    },
+    "text": "воронежа"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 38,
+      "x": 90,
+      "y": 340
+    },
+    "text": "Дата"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 56,
+      "x": 134,
+      "y": 339
+    },
+    "text": "выдачи"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 22,
+      "width": 58,
+      "x": 209,
+      "y": 325
+    },
+    "text": "22."
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 19,
+      "width": 50,
+      "x": 278,
+      "y": 325
+    },
+    "text": "11."
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 23,
+      "width": 80,
+      "x": 340,
+      "y": 326
+    },
+    "text": "2016"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 20,
+      "width": 32,
+      "x": 432,
+      "y": 332
+    },
+    "text": "Код"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 19,
+      "width": 125,
+      "x": 469,
+      "y": 333
+    },
+    "text": "подразделения"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 27,
+      "width": 152,
+      "x": 666,
+      "y": 322
+    },
+    "text": "360-044"
+  },
+  {
+    "language": "en",
+    "location": {
+      "height": 22,
+      "width": 23,
+      "x": 1015,
+      "y": 443
+    },
+    "text": "co"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 13,
+      "width": 63,
+      "x": 740,
+      "y": 469
+    },
+    "text": "Личный"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 13,
+      "width": 24,
+      "x": 812,
+      "y": 469
+    },
+    "text": "код"
+  },
+  {
+    "language": "en",
+    "location": {
+      "height": 26,
+      "width": 30,
+      "x": 1009,
+      "y": 511
+    },
+    "text": "co"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 61,
+      "x": 720,
+      "y": 582
+    },
+    "text": "Личная"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 65,
+      "x": 790,
+      "y": 582
+    },
+    "text": "подпись"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 64,
+      "x": 373,
+      "y": 905
+    },
+    "text": "Фамилия"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 18,
+      "width": 41,
+      "x": 539,
+      "y": 887
+    },
+    "text": "сия"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 28,
+      "width": 161,
+      "x": 679,
+      "y": 890
+    },
+    "text": "горохов"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 13,
+      "width": 32,
+      "x": 370,
+      "y": 1009
+    },
+    "text": "Имя"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 27,
+      "width": 130,
+      "x": 691,
+      "y": 990
+    },
+    "text": "сергей"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 20,
+      "width": 82,
+      "x": 175,
+      "y": 1047
+    },
+    "text": "россия"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 70,
+      "x": 368,
+      "y": 1061
+    },
+    "text": "Отчество"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 28,
+      "width": 278,
+      "x": 614,
+      "y": 1047
+    },
+    "text": "АЛЕКСАНДРОВИЧ"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 22,
+      "width": 30,
+      "x": 1007,
+      "y": 1074
+    },
+    "text": "-1"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 12,
+      "width": 36,
+      "x": 536,
+      "y": 1095
+    },
+    "text": "Дата"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 30,
+      "x": 369,
+      "y": 1113
+    },
+    "text": "Пол"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 27,
+      "width": 90,
+      "x": 439,
+      "y": 1101
+    },
+    "text": "МУЖ."
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 13,
+      "width": 75,
+      "x": 532,
+      "y": 1115
+    },
+    "text": "рождения"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 30,
+      "width": 216,
+      "x": 733,
+      "y": 1099
+    },
+    "text": "20.12.1974"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 15,
+      "width": 45,
+      "x": 372,
+      "y": 1145
+    },
+    "text": "Место"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 77,
+      "x": 370,
+      "y": 1166
+    },
+    "text": "рождения"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 27,
+      "width": 49,
+      "x": 554,
+      "y": 1151
+    },
+    "text": "Г."
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 28,
+      "width": 151,
+      "x": 624,
+      "y": 1150
+    },
+    "text": "ЛУГАНСК"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 27,
+      "width": 146,
+      "x": 597,
+      "y": 1204
+    },
+    "text": "УКРАИНА"
+  },
+  {
+    "language": "en",
+    "location": {
+      "height": 21,
+      "width": 26,
+      "x": 1007,
+      "y": 1192
+    },
+    "text": "co"
+  },
+  {
+    "language": "en",
+    "location": {
+      "height": 27,
+      "width": 108,
+      "x": 85,
+      "y": 1346
+    },
+    "text": "PNRUS"
+  },
+  {
+    "language": "en",
+    "location": {
+      "height": 26,
+      "width": 845,
+      "x": 200,
+      "y": 1346
+    },
+    "text": "GOROHOV<<SERGEQ<ALEKSANDROVI3<<<<<<<<<<"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 20,
+      "width": 80,
+      "x": 172,
+      "y": 1375
+    },
+    "text": "россия"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 19,
+      "width": 82,
+      "x": 498,
+      "y": 1377
+    },
+    "text": "россия"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 20,
+      "width": 77,
+      "x": 827,
+      "y": 1377
+    },
+    "text": "россия"
+  },
+  {
+    "language": "en",
+    "location": {
+      "height": 29,
+      "width": 953,
+      "x": 86,
+      "y": 1407
+    },
+    "text": "2010291187RUS7412202M<<<<<<<7161122360044<12"
+  }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored>
+        <KeyValueItem>
+            <Key>C:\Users\Alex\OneDrive\Рабочий стол\RPA\Primo\Test\Main.ltw</Key>
+            <Value>427d12ea-9039-47c3-8f2c-7b073db749de</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Alex\OneDrive\Рабочий стол\RPA\Primo\Test\Main.ltw</Key>
+            <Value>bc1ae66c-7b72-45a5-8abb-ab574e2b7904</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Alex\OneDrive\Рабочий стол\RPA\Primo\Test\Main.ltw</Key>
+            <Value>d9f28b4f-a69f-4470-aab4-1e41abac0211</Value>
+        </KeyValueItem>
+    </Ignored>
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>C:\Users\Alex\OneDrive\Рабочий стол\RPA\Primo\Test\Main.ltw</Key>
+            <Value>2827e807-d5f5-4cbf-84fc-5cd3019da5a6</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Alex\OneDrive\Рабочий стол\RPA\Primo\Test\Main.ltw</Key>
+            <Value>7bf47eab-93a8-49a7-8ed7-d0803676badb</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\Alex\OneDrive\Рабочий стол\RPA\Primo\Test\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>

@@ -1,0 +1,512 @@
+[
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 8,
+      "x": 81,
+      "y": 27
+    },
+    "text": "о"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 9,
+      "x": 96,
+      "y": 27
+    },
+    "text": "с"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 10,
+      "x": 114,
+      "y": 27
+    },
+    "text": "с"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 11,
+      "x": 133,
+      "y": 27
+    },
+    "text": "и"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 11,
+      "x": 171,
+      "y": 27
+    },
+    "text": "с"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 9,
+      "x": 189,
+      "y": 27
+    },
+    "text": "к"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 10,
+      "x": 207,
+      "y": 27
+    },
+    "text": "а"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 10,
+      "x": 225,
+      "y": 27
+    },
+    "text": "я"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 13,
+      "x": 273,
+      "y": 27
+    },
+    "text": "е"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 9,
+      "x": 295,
+      "y": 27
+    },
+    "text": "д"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 8,
+      "x": 311,
+      "y": 27
+    },
+    "text": "е"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 9,
+      "x": 328,
+      "y": 27
+    },
+    "text": "р"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 10,
+      "x": 345,
+      "y": 27
+    },
+    "text": "а"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 11,
+      "x": 381,
+      "y": 27
+    },
+    "text": "и"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 6,
+      "x": 399,
+      "y": 27
+    },
+    "text": "я"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 8,
+      "width": 32,
+      "x": 29,
+      "y": 67
+    },
+    "text": "Паспорт"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 12,
+      "width": 66,
+      "x": 164,
+      "y": 64
+    },
+    "text": "ОТДЕЛОМ"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 13,
+      "width": 40,
+      "x": 241,
+      "y": 63
+    },
+    "text": "УФМС"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 54,
+      "x": 292,
+      "y": 62
+    },
+    "text": "РОССИИ"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 20,
+      "x": 131,
+      "y": 86
+    },
+    "text": "ПО"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 129,
+      "x": 160,
+      "y": 86
+    },
+    "text": "КРАСНОЯРСКОМУ"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 38,
+      "x": 298,
+      "y": 86
+    },
+    "text": "КРАЮ"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 12,
+      "width": 11,
+      "x": 63,
+      "y": 111
+    },
+    "text": "В"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 13,
+      "width": 105,
+      "x": 84,
+      "y": 110
+    },
+    "text": "ОКТЯБРЬСКОМ"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 13,
+      "width": 40,
+      "x": 200,
+      "y": 110
+    },
+    "text": "Р-НЕ"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 40,
+      "x": 249,
+      "y": 110
+    },
+    "text": "ГОР."
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 107,
+      "x": 298,
+      "y": 110
+    },
+    "text": "КРАСНОЯРСКА"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 98,
+      "x": 77,
+      "y": 133
+    },
+    "text": "25.10.2011"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 8,
+      "width": 17,
+      "x": 31,
+      "y": 145
+    },
+    "text": "Дата"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 9,
+      "width": 27,
+      "x": 52,
+      "y": 144
+    },
+    "text": "выдачи"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 8,
+      "width": 15,
+      "x": 185,
+      "y": 144
+    },
+    "text": "Код"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 8,
+      "width": 52,
+      "x": 204,
+      "y": 144
+    },
+    "text": "недразлемения"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 68,
+      "x": 265,
+      "y": 133
+    },
+    "text": "240-006"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 13,
+      "width": 44,
+      "x": 197,
+      "y": 169
+    },
+    "text": "пионна"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 11,
+      "width": 12,
+      "x": 444,
+      "y": 216
+    },
+    "text": "сл"
+  },
+  {
+    "language": "en",
+    "location": {
+      "height": 9,
+      "width": 10,
+      "x": 445,
+      "y": 228
+    },
+    "text": "co"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 12,
+      "width": 25,
+      "x": 216,
+      "y": 263
+    },
+    "text": "240"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 13,
+      "width": 96,
+      "x": 216,
+      "y": 376
+    },
+    "text": "УРУСОВСКАЯ"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 37,
+      "x": 245,
+      "y": 429
+    },
+    "text": "АННА"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 126,
+      "x": 205,
+      "y": 453
+    },
+    "text": "АЛЕКСАНДРОВНА"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 8,
+      "width": 31,
+      "x": 157,
+      "y": 467
+    },
+    "text": "Отчество"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 35,
+      "x": 174,
+      "y": 481
+    },
+    "text": "жен."
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 36,
+      "x": 230,
+      "y": 490
+    },
+    "text": "режимная"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 15,
+      "width": 112,
+      "x": 261,
+      "y": 480
+    },
+    "text": "29.09.1991"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 10,
+      "width": 35,
+      "x": 156,
+      "y": 513
+    },
+    "text": "рождения"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 40,
+      "x": 196,
+      "y": 506
+    },
+    "text": "ГОР."
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 14,
+      "width": 96,
+      "x": 245,
+      "y": 505
+    },
+    "text": "КРАСНОЯРСК"
+  },
+  {
+    "language": "ru",
+    "location": {
+      "height": 11,
+      "width": 36,
+      "x": 65,
+      "y": 538
+    },
+    "text": "россия"
+  },
+  {
+    "language": "en",
+    "location": {
+      "height": 11,
+      "width": 11,
+      "x": 441,
+      "y": 554
+    },
+    "text": "co"
+  },
+  {
+    "language": "en",
+    "location": {
+      "height": 14,
+      "width": 428,
+      "x": 13,
+      "y": 607
+    },
+    "text": "PNRUSURUSOVSKA8<<ANNA<ALEKSANDROVNA<<<<<<<<<"
+  },
+  {
+    "language": "en",
+    "location": {
+      "height": 15,
+      "width": 428,
+      "x": 12,
+      "y": 630
+    },
+    "text": "0412260593RUS9109294F<<<<<<<1111025240006<70"
+  }
+]

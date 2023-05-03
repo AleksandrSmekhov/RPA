@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-16"?>
+<LTProjectResources xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <WatchScripts />
+    <Ignored />
+    <Breakpoints>
+        <KeyValueItem>
+            <Key>C:\Users\Alex\OneDrive\Рабочий стол\RPA\Primo\Task 4\Task 4\TelegramBot\Main.ltw</Key>
+            <Value>5ac8688c-7feb-42aa-a114-391dce2b0ff1</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Alex\OneDrive\Рабочий стол\RPA\Primo\Task 4\Task 4\TelegramBot\Main.ltw</Key>
+            <Value>91537d9f-c186-4a4d-b150-5d921af29a5b</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Alex\OneDrive\Рабочий стол\RPA\Primo\Task 4\Task 4\TelegramBot\Main.ltw</Key>
+            <Value>f8c55502-1c47-4ee0-9203-ecd23d2030f1</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Alex\OneDrive\Рабочий стол\RPA\Primo\Task 4\Task 4\TelegramBot\Main.ltw</Key>
+            <Value>6ab02fd1-e837-4618-9cd1-70d1434b962c</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Alex\OneDrive\Рабочий стол\RPA\Primo\Task 4\Task 4\TelegramBot\Main.ltw</Key>
+            <Value>4aa79123-aea3-4c49-9eaa-684cfd31b773</Value>
+        </KeyValueItem>
+        <KeyValueItem>
+            <Key>C:\Users\Alex\OneDrive\Рабочий стол\RPA\Primo\Task 4\Task 4\TelegramBot\Main.ltw</Key>
+            <Value>3e6c99ca-ee72-48b6-8076-564e4ae8154c</Value>
+        </KeyValueItem>
+    </Breakpoints>
+    <Git />
+    <LastOpenedItems>
+        <string>C:\Users\Alex\OneDrive\Рабочий стол\RPA\Primo\Task 4\Task 4\TelegramBot\Main.ltw</string>
+    </LastOpenedItems>
+</LTProjectResources>
